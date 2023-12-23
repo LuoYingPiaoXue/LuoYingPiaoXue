@@ -1,5 +1,5 @@
 <h1>Hi，这里是落桜飘雪！🌸</h1>
-<p >中文 | <a href="https://github.com//LuoYingPiaoXue/LuoYingPiaoXue/blob/master/README(en).md">English</a></p>
+<p >中文 | <a href="https://github.com//LuoYingPiaoXue/LuoYingPiaoXue/blob/master/README_en.md">English</a></p>
 <p><img src="https://cdn.jsdelivr.net/gh/LuoYingPiaoXue/LuoYingPiaoXue@main/images/luotianyi-ai.jpg" alt="pic"></p>
 <blockquote>
 <p><q>如果做不好毛虫，还怎么做好蝴蝶呢？</q></p>
