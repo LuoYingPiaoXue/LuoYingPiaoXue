@@ -1,6 +1,6 @@
 <h1>Hi，这里是落桜飘雪！🌸</h1>
 <p >中文 | <a href="https://github.com//LuoYingPiaoXue/LuoYingPiaoXue/blob/master/README_en.md">English</a></p>
-<p><img src="https://cdn.jsdelivr.net/gh/LuoYingPiaoXue/LuoYingPiaoXue@main/images/luotianyi-ai.jpg" alt="pic"></p>
+<p><img width=800 src="https://cdn.jsdelivr.net/gh/LuoYingPiaoXue/LuoYingPiaoXue@main/images/luotianyi-ai.jpg" alt="pic"></p>
 <blockquote>
 <p><q>如果做不好毛虫，还怎么做好蝴蝶呢？</q></p>
 </blockquote>
@@ -11,7 +11,7 @@
 <del>（其余的等我想起来再写吧...）</del>
 </p>
 <h3>关注我吧！</h3>
-  <a href="https://space.bilibili.com/151165899/dynamic" target="_blank" alt="哔哩哔哩" title="哔哩哔哩">
+  <a href="https://space.bilibili.com/151165899" target="_blank" alt="哔哩哔哩" title="哔哩哔哩">
     <img src=https://img.shields.io/badge/哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white>
   <a href="https://music.163.com/#/artist?id=53756807" target="_blank" alt="网易云音乐" title="网易云音乐">
     <img src=https://img.shields.io/badge/网易云音乐-D43C33?style=for-the-badge&logo=neteasecloudmusic&logoColor=white>
