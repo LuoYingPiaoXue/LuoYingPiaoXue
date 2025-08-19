@@ -1,16 +1,17 @@
-<h1>Hi, It's LuoYingPiaoXue here!🌸</h1>
-<p><a href="https://github.com/LuoYingPiaoXue">中文</a> | English</p>
-<p><img width=800 src="https://cdn.jsdelivr.net/gh/LuoYingPiaoXue/LuoYingPiaoXue@main/images/luotianyi-ai.jpg" alt="pic"></p>
+
+<h1>Hi, this is LuoYingPiaoXue!🌸</h1>
+<p>English | <a href="https://github.com/LuoYingPiaoXue/LuoYingPiaoXue/blob/master/README.md">中文</a></p>
+<p><img width=800 src="https://cdn.jsdelivr.net/gh/LuoYingPiaoXue/LuoYingPiaoXue@main/images/YuYi-LuoTianyi.jpg" alt="pic"></p>
 <blockquote>
 <p><q>If you can't be a good caterpillar, how can you be a good butterfly?</q></p>
 </blockquote>
-<p>Hello, this is LuoYingPiaoXue! Welcome to my GitHub page!<br>
-I'm a senior in high school, a virtual singer tuner in my spare time, and an occasional programming student! (Not only that, but I also love pan-tech stuff)<br>
-For an introduction to my virtual tuner, check out my page on <a href="https://zh.moegirl.org.cn/%E8%90%BD%E6%A8%B1%E9%A3%98%E9%9B%AA">Moegirl</a> !<br>
-Currently preparing for the Chinese college entrance exam....<br>
-<del>(I'll write the rest when I think of it...)</del>
+<p>Hello! This is LuoYingPiaoXue! Welcome to my GitHub homepage!<br>
+🧑‍🎓 Freshman / 🎤 Virtual Singer Tuner / 📽️ Amateur PV Maker<br>
+Also, a 🖥️ Geeker (I play with almost everything)<br>
+For more about my virtual tuning work, check out my <a href="https://zh.moegirl.org.cn/%E8%90%BD%E6%A8%B1%E9%A3%98%E9%9B%AA">Moegirl</a> page!<br>
+<h4>"Anyway, good morning, good afternoon, and good evening to you!"</h4>
 </p>
-<h3>Follow Me !</h3>
+<h3>Follow Me!</h3>
   <a href="https://space.bilibili.com/151165899" target="_blank" alt="Bilibili" title="Bilibili">
     <img src=https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white>
   <a href="https://music.163.com/#/artist?id=53756807" target="_blank" alt="NetEase Cloud Music" title="NetEase Cloud Music">
@@ -20,7 +21,9 @@ Currently preparing for the Chinese college entrance exam....<br>
   <a href="https://twitter.com/LuoYingPiaoXue"target="_blank" alt="X" title="X">
     <img src=https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white>
   </a>
-<h2>Extras</h2>
+
+<h2>About Environment</h2>
+
 <p><strong>Programming Languages</strong></p>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -35,11 +38,11 @@ Currently preparing for the Chinese college entrance exam....<br>
   <img alt="arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
-<p><strong>Enviroment</strong></p>
+<p><strong>Development Environment</strong></p>
 <p>
-<img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white">
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows10&logoColor=white">
+<img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-2e60fe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTY3LjMyOCA2Ny4zMzFoNjAuNjY5VjEyOEg2Ny4zMjh6bS02Ny4zMjUgMGg2MC42NjlWMTI4SC4wMDN6TTY3LjMyOCAwaDYwLjY2OXY2MC42NjlINjcuMzI4ek0uMDAzIDBoNjAuNjY5djYwLjY2OUguMDAzeiIvPjwvc3ZnPg==&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj4KPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE3LjMxOSA5LjQxNGMtMi40NDQgMi40NDQtNC41IDQuNDM1LTQuNTk3IDQuNDM1LTAuMDgxIDAtMS40MjQtMC45ODctMi45NjItMi4xODVsLTIuNzg0LTIuMTg1LTIuMjY2IDEuMTMzdjExLjMzMWwyLjI2NiAxLjEzMyAyLjU3NC0yLjAwN2MxLjQyNS0xLjExNyAyLjczNi0yLjEyIDIuOTE0LTIuMjM0IDAuMzI0LTAuMTk0IDAuNjQ3IDAuMDk3IDQuODQgNC4yNzRsNC40ODQgNC40ODQgMi43NTItMS4xMTcgMi43NTItMS4xMDF2LTE4LjE5NWwtMi4xMDQtMC44NDJjLTEuMTQ5LTAuNDctMi4zOTYtMC45NTUtMi43NjgtMS4xMDFsLTAuNjY0LTAuMjU5LTQuNDM1IDQuNDM1ek0yMS43MDYgMTYuMjc4YzAgMi40OTMtMC4wMzIgNC41MzItMC4wOTcgNC41MzItMC4yMjcgMC01LjczLTQuNDM1LTUuNjgyLTQuNTgxIDAuMDQ5LTAuMTc4IDUuNDcxLTQuNDY4IDUuNjY2LTQuNDY4IDAuMDY1LTAuMDE2IDAuMTE0IDIuMDIzIDAuMTE0IDQuNTE2ek04LjgzNyAxNC42NTlsMS42MTkgMS42MTktMS42MTkgMS42MTljLTAuODkgMC44OS0xLjY2NyAxLjYxOS0xLjczMiAxLjYxOS0wLjA4MSAwLTAuMTMtMS40NTctMC4xMy0zLjIzN3MwLjA0OC0zLjIzOCAwLjEzLTMuMjM4YzAuMDY1IDAgMC44NDIgMC43MjkgMS43MzIgMS42MTl6Ij48L3BhdGg+Cjwvc3ZnPgo=&logoColor=white">
+<img alt="Jetbrains IDE" src="https://img.shields.io/badge/JetBrains%20IDE-c305a0?style=for-the-badge&logo=JetBrains&logoColor=white">
 <hr>
-<h3>No. of visitors<h3>
+<h3>Visitors:<h3>
 <img src="https://moe-counter.glitch.me/get/@LuoYingPiaoXue"></p>
