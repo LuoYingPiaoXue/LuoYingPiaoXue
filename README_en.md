@@ -45,4 +45,4 @@ For more about my virtual tuning work, check out my <a href="https://zh.moegirl.
 <img alt="Jetbrains IDE" src="https://img.shields.io/badge/JetBrains%20IDE-c305a0?style=for-the-badge&logo=JetBrains&logoColor=white">
 <hr>
 <h3>Visitors:<h3>
-<img src="https://moe-counter.glitch.me/get/@LuoYingPiaoXue"></p>
+<img src="https://access-counter.vercel.app/api/counter?name=LuoYingPiaoXue"></p>
